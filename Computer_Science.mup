@@ -1,0 +1,92 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "Computer Science",
+      "id": 1,
+      "attr": {
+        "position": [
+          9,
+          -84.60000610351562,
+          1
+        ],
+        "style": {
+          "fontMultiplier": 2.25,
+          "width": 275
+        }
+      },
+      "ideas": {
+        "2": {
+          "title": "svsdfs",
+          "id": "30.95d8.4a23c0382-50ec.da857bb96",
+          "attr": {}
+        },
+        "7": {
+          "title": "Data Strutures",
+          "id": "21.9e21.35028810c-aeda.677115588",
+          "ideas": {
+            "1": {
+              "title": "Pilha",
+              "id": "25.9e21.35028810c-aeda.677115588",
+              "attr": {
+                "position": [
+                  206,
+                  -122,
+                  1
+                ],
+                "note": {
+                  "index": 4,
+                  "text": "Primeiro que entra é o último a sair."
+                }
+              }
+            },
+            "2": {
+              "title": "Fila",
+              "id": "26.9e21.35028810c-aeda.677115588",
+              "attr": {
+                "position": [
+                  245,
+                  -6,
+                  4
+                ],
+                "note": {
+                  "index": 5,
+                  "text": "Primeiro a entrar é o primeiro a sair."
+                }
+              }
+            },
+            "3": {
+              "title": "Struct",
+              "id": "27.9e21.35028810c-aeda.677115588",
+              "attr": {
+                "note": {
+                  "index": 6,
+                  "text": "Estrutura muito utilizada na linguagem C."
+                }
+              }
+            }
+          },
+          "attr": {}
+        },
+        "12": {
+          "title": "Algorithms",
+          "id": "31.95d8.4a23c0382-50ec.da857bb96"
+        },
+        "22": {
+          "title": "Link https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence",
+          "id": "32.95d8.4a23c0382-50ec.da857bb96"
+        },
+        "-1": {
+          "title": "Complexity",
+          "id": "22.9e21.35028810c-aeda.677115588"
+        }
+      }
+    }
+  },
+  "title": "Computer Science",
+  "links": [],
+  "attr": {
+    "theme": "topdownStandard"
+  }
+}
